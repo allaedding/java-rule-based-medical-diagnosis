@@ -1,0 +1,9 @@
+fatigue,maux de ventre,fievre,diarrhee=intoxications alimentaire
+fatigue,difficultes respiratoire,perte de poids=insuffisance renale
+fievre,maux de tete=grippe saisonniere
+douleur abdominale,nausees,fievre=suspicion maladie de digestion
+suspicion maladie de digestion,fatigue=jaunisse
+suspicion maladie de digestion,douleur a l'abdomen=appendicite
+maux de tete,difficultes respiratoire=suspicion maladie respiratoire
+inflammation de la gorge,fievre,gorge rouge=angine
+suspicion maladie respiratoire,douleur a la racine du nez=sinusite
