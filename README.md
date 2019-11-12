@@ -1,6 +1,6 @@
 "# Rule Based Expert System for Medical Diagnosis with java using netbeans
 
-the Rules base is add as an examlpe its writen in frensh create your own.
+the Rules base is add as an examlpe, its writen in frensh.
 
 
 # screenshots
